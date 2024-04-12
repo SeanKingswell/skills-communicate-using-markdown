@@ -1,4 +1,8 @@
 # Markdown things
+## Oh no, a to do list?!
+- [x] Make task list
+- [ ] Start tasks
+- [x] Procrastinate and never get them done
 ## Git format
 ```
 $ git init
